@@ -47,7 +47,6 @@ function makeGetUserByIdWithOrganization(getUserById, getOrganizationById){
 
   };
 }
-
 module.exports = {
   flatMapPromise,
   chainTwoAsyncProcesses,
